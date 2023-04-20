@@ -23,7 +23,7 @@
     pointer-events: none;
     font-family: sans-serif;
     font-size: 12px;
-    z-index: 2;
+    z-index: 2; 
 }
 
 .tooltipTable {
@@ -51,40 +51,48 @@
   border-collapse: collapse;
   border-spacing: 3px;
   table-layout: fixed;
+  text-align: left;
 }
 
 th.headerCell {
   background-color: #1b5439;
   padding: 5px;
   border-bottom: 1px solid #BDC3C7;
+  text-align: left;
 }
 
 .headerCell.dimension {
   background-color: #1b5439;
   border-right: 1px solid #BDC3C7; 
+  text-align: left;
 }
 
 .headerCell.pivot {
   background-color: #1b5439;
   border-right: 1px solid #BDC3C7; 
+  text-align: left;
 }
 
 .headerCell.measure {
-  background-color: #e4d0bd;
+  background-color: #00ce7c;
   border-left: 1px solid #BDC3C7; 
+  text-align: left;
 }
 
 .headerCell.measure.calculation {
   background-color: #c9dfc5;
   border-left: 1px solid #BDC3C7;
+  text-align: left;
 }
 
 .headerCell.transposed.dimension {
-  background-color: #e4ecf3;
+  background-color: #1b5439;
+  text-align: left;
 }
 
 .headerCell.transposed.dimension.merged {
   background-color: #1b5439 !important;
+  text-align: left;
 }
 
 /* .headerCell.dimension.headerRow {
@@ -101,13 +109,13 @@ th.headerCell {
 } */
 
 .rowCell {
-  vertical-align: super;
-  padding-left: 5px;
   border-bottom: 1px solid #BDC3C7; 
+  text-align: left;
 }
 
 .rowCell.merged {
   background-color: #ffffff !important;
+  text-align: left;
 }
 
 .indexCell.transposed {
