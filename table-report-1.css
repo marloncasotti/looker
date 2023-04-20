@@ -45,6 +45,9 @@
   border-spacing: 3px;
 
   /* Add customization here  */
+.left-text {
+  float: left;
+}
 
 }
 
