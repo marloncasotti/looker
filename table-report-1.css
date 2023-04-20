@@ -27,7 +27,7 @@
 }
 
 .tooltipTable {
-  font-family: Open Sans,Helvetica,Arial,sans-serif;
+  font-family: Roboto,sans-serif;
   border: 0px;
   border-collapse: collapse;
   table-layout: auto;
@@ -46,7 +46,7 @@
 }
 
 .reportTable {
-  font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
+  font-family: Roboto,sans-serif;
   color: #696969;
   border-collapse: collapse;
   border-spacing: 3px;
