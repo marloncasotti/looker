@@ -45,9 +45,6 @@
   border-spacing: 3px;
 
   /* Add customization here  */
-  float: left;
-
-
 }
 
 .reportTable th {
@@ -59,7 +56,7 @@
   padding: 5px;
 
   /* Add customization here  */
-  float: left;
+  margin-right: 20px;
 
 }
 
@@ -72,18 +69,12 @@
   border-collapse: collapse;
 
   /* Add customization here  */
-
+  margin-right: 20px;
 }
 
-.left {
-  text-align: left;
-
-  /* Add customization here  */
-
-}
 
 .right {
-  text-align: right !important;
+  text-align: left !important;
 
   /* Add customization here  */
 
