@@ -45,9 +45,8 @@
   border-spacing: 3px;
 
   /* Add customization here  */
-.left-text {
   float: left;
-}
+
 
 }
 
@@ -55,11 +54,12 @@
   color: #000000;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
-  /* font-size: 10px;  */
+  font-size: 10px; 
   /* height: 25px; */
   padding: 5px;
 
   /* Add customization here  */
+  float: left;
 
 }
 
