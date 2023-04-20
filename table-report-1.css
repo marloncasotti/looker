@@ -127,11 +127,11 @@ th.headerCell {
 }
 
 .indexCell.transposed.dimension {
-  background-color: #e4ecf3;
+  background-color: #00ce7c;
 }
 
 .indexCell.transposed.measure {
-  background-color: #e4d0bd;
+  background-color: #00ce7c;
 }
 
 .indexCell.transposed.calculation {
@@ -143,11 +143,11 @@ th.headerCell {
 }
 
 .indexCell.transposed.dimension.merged {
-  background-color: #e4ecf3 !important;
+  background-color: #00ce7c !important;
 }
 
 .indexCell.transposed.measure.merged {
-  background-color: #e4d0bd !important;
+  background-color: #00ce7c !important;
 }
 
 .indexCell.transposed.calculation.merged {
