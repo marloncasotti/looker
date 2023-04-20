@@ -39,7 +39,7 @@
 
 .reportTable {
   font-family: Open Sans,Helvetica,Arial,sans-serif;
-  font-size: 12px;
+  font-size: 18px;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
